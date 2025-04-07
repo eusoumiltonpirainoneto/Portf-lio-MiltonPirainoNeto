@@ -42,4 +42,4 @@ Interação Básica (Filtros).
 
 **Link para o Dashboard:** https://linksharing.samsungcloud.com/dhtBw34jGbYf
 
-**Imagens/GIFs:** 
+**Imagens/GIFs:** ![Demonstração do dashboard Power BI](meu_dashboard.gif)
