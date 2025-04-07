@@ -7,9 +7,10 @@ Bem-vindo(a) ao meu portfólio de projetos Power BI! Este repositório foi criad
 Tenho experiência em logística e gestão de pessoas, busco contribuir no desenvolvimento e otimização de processos em ambientes portuários e na indústria Offshore e Onshore. Possuo atuação comprovada em gestão de estoque, armazenagem, distribuição, inventário, picking e packing e logística reversa. Minha experiência em logística somada às habilidades técnicas de utilização de Power BI, IA Generativa, Canvas, GitHub e Excel me permitem implementar metodologias como Lean Manufacturig e Just In Time, com objetivo de aprimorar operações logísticas desde a cadeia de suprimentos a distribuição e transporte.
 Em minhas experiências profissionais anteriores, como líder operacional e assistente logístico, tive a oportunidade de colaborar no funcionamento de um centro de distribuição utilizando sistema ERP, e gerenciar estrategicamente a alocação de recursos humanos, utilizando principalmente o Microsoft Excel.
 
-Contatos atualizados: 
-WhatsApp: (21) 97730-5253
-E-mail: miltonnetop@gmail.com
+**Contatos:**
+
+* **WhatsApp:** (21) 97730-5253
+* **E-mail:** miltonnetop@gmail.com
 
 ## Projetos
 
